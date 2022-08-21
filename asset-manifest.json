@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dlard707.github.io/csb-ozkq6i/static/css/main.af625de7.chunk.css",
+    "main.js": "https://dlard707.github.io/csb-ozkq6i/static/js/main.7e5a0e6a.chunk.js",
+    "main.js.map": "https://dlard707.github.io/csb-ozkq6i/static/js/main.7e5a0e6a.chunk.js.map",
+    "runtime-main.js": "https://dlard707.github.io/csb-ozkq6i/static/js/runtime-main.96a063a5.js",
+    "runtime-main.js.map": "https://dlard707.github.io/csb-ozkq6i/static/js/runtime-main.96a063a5.js.map",
+    "static/js/2.9730d6b1.chunk.js": "https://dlard707.github.io/csb-ozkq6i/static/js/2.9730d6b1.chunk.js",
+    "static/js/2.9730d6b1.chunk.js.map": "https://dlard707.github.io/csb-ozkq6i/static/js/2.9730d6b1.chunk.js.map",
+    "index.html": "https://dlard707.github.io/csb-ozkq6i/index.html",
+    "static/css/main.af625de7.chunk.css.map": "https://dlard707.github.io/csb-ozkq6i/static/css/main.af625de7.chunk.css.map",
+    "static/js/2.9730d6b1.chunk.js.LICENSE.txt": "https://dlard707.github.io/csb-ozkq6i/static/js/2.9730d6b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96a063a5.js",
+    "static/js/2.9730d6b1.chunk.js",
+    "static/css/main.af625de7.chunk.css",
+    "static/js/main.7e5a0e6a.chunk.js"
+  ]
+}
